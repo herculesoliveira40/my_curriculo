@@ -17,13 +17,3 @@ CREATE table pessoa(
 );
 
 
-
-
-
-
-
-
-
-
-
- @Detona CornoTutoriaisGame Plays  - Corona - Rhythm of the Night- Frank Ocean - Super Rich Kids (Ft. Earl Sweatshirt)- Gaiola das Popozudas - Traz a bebida que pisca- Die Antwoord - Rich Bitch
