@@ -56,16 +56,16 @@
             <fieldset>
                 <Legend><strong> Dados Profissionais: </strong></Legend> <p> </p>
                 <label> Formação: </label>
-                <textarea type="text" name="formacao" placeholder="FORMAÇÃO: " id="formacao" value="<?php echo $dados ["formacao"]; ?> " required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"></textarea> <br>
+                <textarea type="text" name="formacao" placeholder="FORMAÇÃO: " id="formacao" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"> <?php echo $dados ["formacao"]; ?> </textarea> <br>
                 
                 <label> Conhecimentos Complementares: </label> 
-                <textarea type="text" name="cnc" placeholder="CONHECIMENTOS COMPLEMENTARES: " id="cnc" value="<?php echo $dados ["cnc"]; ?>" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"></textarea> <br>
+                <textarea type="text" name="cnc" placeholder="CONHECIMENTOS COMPLEMENTARES: " id="cnc" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"> <?php echo $dados ["cnc"]; ?> </textarea> <br>
                
                 <label> Experiências Profissionais: </label> 
-                <textarea type="text" name="expe" placeholder="EXPERIÊNCIAS PROFISSIONAIS: " id="expe" value="<?php echo $dados ["expe"]; ?>" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"></textarea> <br>
+                <textarea type="text" name="expe" placeholder="EXPERIÊNCIAS PROFISSIONAIS: " id="expe" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"> <?php echo $dados ["expe"]; ?> </textarea> <br>
               
                 <label> Objetivo: </label> 
-                <textarea type="text" name="obj" placeholder="OBJETIVO: " id="obj" value="<?php echo $dados ["obj"]; ?>" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"></textarea> <br>
+                <textarea type="text" name="obj" placeholder="OBJETIVO: " id="obj" required class="wpcf7-form-control wpcf7-textarea form-control pad form-control-lg"> <?php echo $dados ["obj"]; ?> </textarea> <br>
             </fieldset> 
 
             
